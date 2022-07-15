@@ -16,6 +16,6 @@
    ```
    ./Generator.sh <path to list of FI/FD created using helper.sh>
    ```
-   local spinnaker repo path can be changed inside Generator.sh script, since the first invocation may take 15-20 mins, since it checks out sfcd/spinnaker repo and sometimes gets stuck.
+   Local spinnaker repository path can be changed inside Generator.sh script. The first invocation may take 15-20 mins, since it checks out sfcd/spinnaker repo and sometimes gets stuck.
 
   
